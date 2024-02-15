@@ -1,0 +1,22 @@
+.gnom-game {
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.gnom {
+    width: 100px;
+    height: 100px;
+    margin: 0 15px 30px;
+    background: greenyellow;
+    border-radius: 50%;
+}
+
+.gnom-img {
+    background: url(2dbd01ce16c0fa83cb67.png);
+    background-size: cover;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
